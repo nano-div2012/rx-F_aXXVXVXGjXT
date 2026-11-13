@@ -1,6 +1,9 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Kasirku",
+  "packageName": "com.web2apk.kasirkuyx6u",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "wake_lock"
+  ]
 }
